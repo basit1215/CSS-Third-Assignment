@@ -1,18 +1,18 @@
-*{
-    font-family: Arial,  sans-serif;
-    font-weight: 600;
   
-}
- 
-h1{
-    color: blue;
-    text-align: center;
-    text-decoration: underline;
-    font-family: 'Times New Roman' }
-.para1 {
-    font-style: italic;
-    
-}
-.para3 {
-     font-weight :bolder;
-}
+
+ h1 {
+     color: blue;
+     text-align: center;
+     text-decoration: underline;
+
+ }
+
+ .para1 {
+     font-style: italic;
+
+ }
+
+ .para3 {
+     font-weight: bolder;
+ }
+  
